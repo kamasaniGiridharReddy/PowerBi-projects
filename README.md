@@ -46,5 +46,38 @@ A report is a comprehensive document that provides a detailed and structured acc
 
 Designing a report in Power BI involves connecting to data sources, creating visualizations like charts and graphs, customizing their appearance and interactivity, organizing them logically on the canvas, formatting elements for consistency and clarity, and optionally creating dashboards for a summarized view. Throughout the process, it's essential to consider the audience's needs and ensure the report effectively communicates insights from the data. Finally, iterate based on feedback to continually improve the report's design and usefulness.
 
+##  No of Visualizations/ Graphs 
+
+Employee Ratings Distribution: Pie chart
+
+Monthly Hiring Trends: Line graph
+
+Past Experience by First Name: Bar graph
+
+Designation Distribution: Icon sets
+
+Number of Employees by Unit: Bar chart
+
+Male Salary: Gauge chart
+
+Female Salary: Gauge chart
+
+Leave Usage by Gender: Bar chart
+
+Employees by Years Worked: Bar chart
+
+## Amount of Data Loaded
+
+"Amount of Data Loaded" refers to the quantity or volume of data that has been imported, retrieved, or loaded into a system, software application, database, or any other data storage or processing environment. It's a measure of how much data has been successfully processed and made available for analysis, manipulation, or use within the system.
+
+## Utilization of Filters
+
+"Utilization of Filters" involves applying filters within a system, software, or data processing pipeline to selectively extract, manipulate, or analyze data according to specific criteria or conditions.
+
+Selected “Top 5 Past Experience” as a Filter in column Graph
+
+
+
+
 
 
