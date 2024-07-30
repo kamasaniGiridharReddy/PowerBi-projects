@@ -48,23 +48,23 @@ Designing a report in Power BI involves connecting to data sources, creating vis
 
 ##  No of Visualizations/ Graphs 
 
-Employee Ratings Distribution: Pie chart
+### Employee Ratings Distribution: Pie chart
 
-Monthly Hiring Trends: Line graph
+### Monthly Hiring Trends: Line graph
 
-Past Experience by First Name: Bar graph
+### Past Experience by First Name: Bar graph
 
-Designation Distribution: Icon sets
+### Designation Distribution: Icon sets
 
-Number of Employees by Unit: Bar chart
+### Number of Employees by Unit: Bar chart
 
-Male Salary: Gauge chart
+### Male Salary: Gauge chart
 
-Female Salary: Gauge chart
+### Female Salary: Gauge chart
 
-Leave Usage by Gender: Bar chart
+### Leave Usage by Gender: Bar chart
 
-Employees by Years Worked: Bar chart
+### Employees by Years Worked: Bar chart
 
 ## Amount of Data Loaded
 
