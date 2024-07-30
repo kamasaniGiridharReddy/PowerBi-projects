@@ -29,6 +29,8 @@ LEAVES REMAINING: The number of leave days remaining for the employee.
 RATINGS: Performance ratings of the employee.
 
 PAST EXP (Past Experience): The past work experience of the employee before joining the organization.
+![Screenshot 2024-07-15 100044](https://github.com/user-attachments/assets/fb9c10ab-6b22-4d63-aff1-a70e3469f5e7)
+
 ![Screenshot 2024-07-15 100100](https://github.com/user-attachments/assets/3a3c4cc8-8d2b-4ccb-ba42-1472cae4109b)
 
 
