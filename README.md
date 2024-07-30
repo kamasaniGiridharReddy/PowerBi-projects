@@ -75,6 +75,10 @@ Employees by Years Worked: Bar chart
 "Utilization of Filters" involves applying filters within a system, software, or data processing pipeline to selectively extract, manipulate, or analyze data according to specific criteria or conditions.
 
 Selected “Top 5 Past Experience” as a Filter in column Graph
+![Screenshot 2024-07-30 123105](https://github.com/user-attachments/assets/091711fb-a16d-4103-9f6e-931d01a28f17)
+
+
+![Screenshot 2024-07-30 123116](https://github.com/user-attachments/assets/1c61c87c-3786-404b-89e9-bb1f57d3759a)
 
 
 
